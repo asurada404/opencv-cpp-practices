@@ -1,6 +1,6 @@
 #include <opencv2/opencv.hpp>
 
-int main() {
+int main29() {
 	cv::Mat img_rgb, img_gray, img_gray2, img_cny;
 
 	img_rgb = cv::imread("test.jpg");
